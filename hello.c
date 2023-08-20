@@ -1,6 +1,7 @@
 /**
  * Author: Berenice Daly
  * Date: 2023/08/20
+ *
  * hack1.0
  *
 */
@@ -9,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Berenice Daly\n");
+    printf("Hello, my name is Berenice Daly!\n");
+    printf("I am a non-degree grad student.\n");
 
     return 0;
 }
